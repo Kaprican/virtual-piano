@@ -1,6 +1,6 @@
 # Virtual piano
 
-v.1.0 
+v.1.1 
 
 Anastasia Iljushchenko
 
